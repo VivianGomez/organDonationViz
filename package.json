@@ -1,0 +1,15 @@
+{
+  "name": "organdonationviz",
+  "version": "1.0.0",
+  "description": "Estadísticas donación y trasplantes de órganos y tejidos en Bogotá D.C",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^13.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vivian Gómez",
+  "license": "ISC"
+}
