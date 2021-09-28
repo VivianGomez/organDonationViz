@@ -7,3 +7,10 @@
 {
     margin-top: 2%;
 }
+
+.cards-title
+{
+    color: hsl(171, 100%, 41%);
+    font-size: 2em;
+    font-weight: bolder;
+}
