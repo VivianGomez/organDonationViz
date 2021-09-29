@@ -1,4 +1,4 @@
-const _urlData = "https://datosabiertos.bogota.gov.co/api/3/action/datastore_search?resource_id=2d063361-e271-4ae7-9cd2-f96be0ca79b4&limit=1352"
+const _urlData = "http://datosabiertos.bogota.gov.co/api/3/action/datastore_search?resource_id=2d063361-e271-4ae7-9cd2-f96be0ca79b4&limit=1352"
 let keys;
 let groupKey = 'Organo';
 let curYear = 2020;
